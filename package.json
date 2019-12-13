@@ -1,0 +1,27 @@
+{
+  "name": "utilidades-core",
+  "version": "8.0.5",
+  "peerDependencies": {
+    "@angular/common": "~8.2.5",
+    "@angular/core": "~8.2.5",
+    "rxjs": "^6.5.2",
+    "rxjs-compat": "^6.5.2",
+    "ngx-moment": "^3.4.0"
+  },
+  "dependencies": {
+    "@angular/common": "~8.2.5",
+    "@angular/core": "~8.2.5",
+    "rxjs": "^6.5.2",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/utilidades-core.umd.js",
+  "module": "fesm5/utilidades-core.js",
+  "es2015": "fesm2015/utilidades-core.js",
+  "esm5": "esm5/utilidades-core.js",
+  "esm2015": "esm2015/utilidades-core.js",
+  "fesm5": "fesm5/utilidades-core.js",
+  "fesm2015": "fesm2015/utilidades-core.js",
+  "typings": "utilidades-core.d.ts",
+  "metadata": "utilidades-core.metadata.json",
+  "sideEffects": false
+}
